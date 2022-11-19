@@ -98,7 +98,7 @@ function App() {
                     </div>
                     <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="flex-grow-1">
-                            <h3 className="mb-0">MINTIC - Universidad de Caldas</h3>
+                            <h3 className="mb-0">MINTIC ESTADO - Universidad de Caldas</h3>
                             <div>Habilidades en programación con énfasis en aplicaciones web Misión TIC</div>
                         </div>
                         <div className="flex-shrink-0"><span className="text-primary">2021</span></div>   
