@@ -158,7 +158,7 @@ function App() {
                 </div>
             </section>
             <hr className="m-0" />
-           {/*} <!-- Awards-->*/}
+            {/* <!-- Awards-->*/}
             <section className="resume-section" id="awards">
                 <div className="resume-section-content">
                     <h2 className="mb-5">Premios</h2>
