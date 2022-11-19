@@ -1,5 +1,6 @@
 
-import './App.css';
+//import './App.css';
+import './template/css/styles_proyect_raul.css';
 
 function App() {
   return (
