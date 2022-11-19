@@ -57,7 +57,7 @@ function App() {
                         <div className="flex-grow-1">
                             <h3 className="mb-0">Almacenista con labores en telecomunicaciones</h3>
                             <div className="subheading mb-3">practicante SENA</div>
-                            <p>Servicio nacional de aprendizaje, manizales</p>
+                            <p>Servicio nacional de aprendizaje sena, manizales</p>
                         </div>
                         <div className="flex-shrink-0"><span className="text-primary">2019-10 - 2020-04</span></div>
                     </div>
