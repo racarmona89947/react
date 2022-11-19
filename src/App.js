@@ -79,7 +79,7 @@ function App() {
                     <div className="d-flex flex-column flex-md-row justify-content-between">
                         <div className="flex-grow-1">
                             <h3 className="mb-0">Sena</h3>
-                            <div>Tecnólogo en Diseño, Implementacion y Mantenimineto de Sistemas de Telecomunicaciones</div>
+                            <div>Tecnólogo en Diseño, Implementación y Mantenimineto de Sistemas de Telecomunicaciones</div>
                         </div>
                         <div className="flex-shrink-0"><span className="text-primary">2018 - 2020</span></div>
                     </div>
